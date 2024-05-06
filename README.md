@@ -1,4 +1,4 @@
-/ Kişisel Sağlık Takip Uygulamamız da öncelikle Ad Soyad, Yaş  ve Cinsiyet Bilgileri alınır. Ardından Sağlık Verisi eklenir ve Son Egzersiz Eklenir. Ve Kayıt Eklenir. En son olarak da Rapor oluşturulur ve Görüntülenebilir.
+/ Kişisel Sağlık Takip Uygulamamız da öncelikle Ad Soyad, Yaş  ve Cinsiyet Bilgileri alınır. Ardından sağlık verisi eklenir ve sonra egzersiz eklenir. Ve kayıt eklenir. En son olarak da Rapor oluşturulur ve görüntülenebilir.
 
 ** Hoş Geldin Ekranı
 
